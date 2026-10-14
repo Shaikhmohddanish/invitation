@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Faizan and Areeba//Waleema invite//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:waleema-faizan-areeba-20261020@invite
+DTSTAMP:20261012T000000Z
+DTSTART:20261020T133000Z
+DTEND:20261020T173000Z
+SUMMARY:Dawat-e-Waleema of Faizan & Areeba
+LOCATION:Noor Hall\, 12 Crescent Road\, near City Garden\, Bandra West\, Mu
+ mbai 400050
+DESCRIPTION:With the blessings of Allah\, you are invited to the Dawat-e-Wa
+ leema of Faizan and Areeba.\n\nDirections: https://www.google.com/maps/dir
+ /?api=1&destination=Bandra%20West%2C%20Mumbai
+URL:https://www.google.com/maps/dir/?api=1&destination=Bandra%20West%2C%20M
+ umbai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Dawat-e-Waleema of Faizan & Areeba at 7:00 PM\, Noor 
+ Hall
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 hours: Dawat-e-Waleema of Faizan & Areeba at 7:00 PM\, Noo
+ r Hall
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
